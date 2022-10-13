@@ -10699,6 +10699,14 @@ header.masthead .masthead-heading {
   opacity: 0.3;
 }
 
+.invitation-letter {
+  padding: 5em;
+}
+
+.invitation-heading {
+  text-align: center;
+}
+
 .timeline {
   position: relative;
   padding: 0;
@@ -10937,6 +10945,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
 }
+
 
 .footer {
   text-align: center;
